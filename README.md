@@ -24,7 +24,7 @@ The Code Institute Startup Academy is a project idea that involves implementing 
 
 The mission of the Code Institute Startup Academy is to provide access to knowledge, community and tools that will allow CI students and graduates to start a startup and improve their probabilities of success, regardless of who and where they are.
 
-_<p style="text-align: right"><a href="#top">Back to top</a></p>_
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 <span id="ux"></span>
 
@@ -90,7 +90,7 @@ Below you will find PDF files for the website's wireframes. These were generated
 - Wireframes for the desktop version in Balsamiq.
 - Wireframes for the mobile version in Balsamiq.
 
-_<p style="text-align: right"><a href="#top">Back to top</a></p>_
+  _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 <span id="features"></span>
 
@@ -106,7 +106,7 @@ _<p style="text-align: right"><a href="#top">Back to top</a></p>_
 - **FAQ page:** It allows students and graduates to clarify the most common questions they have about the Academy. It also provides an email address (hyperlinked) that they can use to contact the Academy team with additional inquiries.
 - **Help page:** It allows students and graduates to contact the Academy's team and community in case they need assistance. It also provides guidance and an email address (hyperlinked) to report abusive behaviours.
 
-_<p style="text-align: right"><a href="#top">Back to top</a></p>_
+  _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 <span id="technologies"></span>
 
@@ -140,7 +140,7 @@ _<p style="text-align: right"><a href="#top">Back to top</a></p>_
 - [**Google Drive**](https://drive.google.com/)
   - The project used the **Google Drive** service to host and access others files and documents online.
 
-_<p style="text-align: right"><a href="#top">Back to top</a></p>_
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 <span id="testing"></span>
 
