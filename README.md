@@ -9,8 +9,8 @@
 ## Index
 
 - [Project Definition](#Code-Institute-Startup-Academy)
-- [UX 💻](##1.-UX-💻)
-- [Features ⚙](##2.-Features-⚙)
+- <a href="#top">UX 💻</a>
+- <a href="#top">Features ⚙</a>
 - [Technologies Used 🔩](##3.-Technologies-Used-🔩)
 - [Testing 🧪](##4.-Testing-🧪)
 
@@ -24,7 +24,9 @@ The Code Institute Startup Academy is a project idea that involves implementing 
 
 The mission of the Code Institute Startup Academy is to provide access to knowledge, community and tools that will allow CI students and graduates to start a startup and improve their probabilities of success, regardless of who and where they are.
 
-_<div style="text-align: right"><a href="#top">Back to top</a></div>_
+_<p style="text-align: right"><a href="#top">Back to top</a></p>_
+
+<span id="ux"></span>
 
 ## 1. UX 💻
 
@@ -89,6 +91,8 @@ Below you will find PDF files for the website's wireframes. These were generated
 - Wireframes for the mobile version in Balsamiq.
 
 _<div style="text-align: right"><a href="#top">Back to top</a></div>_
+
+<span id="features"></span>
 
 ## 2. Features ⚙
 
