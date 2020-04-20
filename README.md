@@ -9,8 +9,8 @@
 ## Index
 
 - [Project Definition](#Code-Institute-Startup-Academy)
-- <a href="#top">UX 💻</a>
-- <a href="#top">Features ⚙</a>
+- <a href="#ux">UX 💻</a>
+- <a href="#features">Features ⚙</a>
 - [Technologies Used 🔩](##3.-Technologies-Used-🔩)
 - [Testing 🧪](##4.-Testing-🧪)
 
