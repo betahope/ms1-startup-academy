@@ -11,8 +11,8 @@
 - [Project Definition](#Code-Institute-Startup-Academy)
 - <a href="#ux">UX 💻</a>
 - <a href="#features">Features ⚙</a>
-- [Technologies Used 🔩](##3.-Technologies-Used-🔩)
-- [Testing 🧪](##4.-Testing-🧪)
+- <a href="#technologies">Technologies Used 🔩</a>
+- <a href="#testing">Testing 🧪</a>
 
 ---
 
@@ -90,7 +90,7 @@ Below you will find PDF files for the website's wireframes. These were generated
 - Wireframes for the desktop version in Balsamiq.
 - Wireframes for the mobile version in Balsamiq.
 
-_<div style="text-align: right"><a href="#top">Back to top</a></div>_
+_<p style="text-align: right"><a href="#top">Back to top</a></p>_
 
 <span id="features"></span>
 
@@ -106,7 +106,9 @@ _<div style="text-align: right"><a href="#top">Back to top</a></div>_
 - **FAQ page:** It allows students and graduates to clarify the most common questions they have about the Academy. It also provides an email address (hyperlinked) that they can use to contact the Academy team with additional inquiries.
 - **Help page:** It allows students and graduates to contact the Academy's team and community in case they need assistance. It also provides guidance and an email address (hyperlinked) to report abusive behaviours.
 
-_<div style="text-align: right"><a href="#top">Back to top</a></div>_
+_<p style="text-align: right"><a href="#top">Back to top</a></p>_
+
+<span id="technologies"></span>
 
 ## 3. Technologies Used 🔩
 
@@ -138,7 +140,9 @@ _<div style="text-align: right"><a href="#top">Back to top</a></div>_
 - [**Google Drive**](https://drive.google.com/)
   - The project used the **Google Drive** service to host and access others files and documents online.
 
-_<div style="text-align: right"><a href="#top">Back to top</a></div>_
+_<p style="text-align: right"><a href="#top">Back to top</a></p>_
+
+<span id="testing"></span>
 
 ## 4. Testing 🧪
 
