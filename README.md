@@ -83,7 +83,7 @@ The website provides:
 
 ### 1.4 Website Wireframes 💻📱
 
-Below you will find PDF files for the website's wireframes. These were generated using Balsamiq. There are four versions of the wireframes. Choose your option:
+Below you will find the website's wireframes. These were generated using Balsamiq. There are four versions of the wireframes. Choose your option:
 
 - Wireframes for the [desktop version in PDF](https://drive.google.com/file/d/1idAXa3Im9vHfMWTc6PS4m94JngKpV0qr/view?usp=sharing).
 - Wireframes for the [mobile version in PDF](https://drive.google.com/file/d/1IPgsA4cvubWJY1UrtYPMe4MlqKCMbCwh/view?usp=sharing).
