@@ -85,10 +85,10 @@ The website provides:
 
 Below you will find PDF files for the website's wireframes. These were generated using Balsamiq. There are four versions of the wireframes. Choose your option:
 
-- Wireframes for the desktop version in PDF.
-- Wireframes for the mobile version in PDF.
-- Wireframes for the desktop version in Balsamiq.
-- Wireframes for the mobile version in Balsamiq.
+- Wireframes for the [desktop version in PDF](https://drive.google.com/file/d/1idAXa3Im9vHfMWTc6PS4m94JngKpV0qr/view?usp=sharing).
+- Wireframes for the [mobile version in PDF](https://drive.google.com/file/d/1IPgsA4cvubWJY1UrtYPMe4MlqKCMbCwh/view?usp=sharing).
+- Wireframes for the [desktop version in Balsamiq](https://drive.google.com/file/d/1axsIlF8OUMhDCYMkokbSL0YRXvrxud5V/view?usp=sharing).
+- Wireframes for the [mobile version in Balsamiq](https://drive.google.com/file/d/1ZM1O03oX0w5p6cLx8tqdJHn-Zveptljx/view?usp=sharing).
 
   _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
