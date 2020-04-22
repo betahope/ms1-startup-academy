@@ -1,28 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 
+/* ------------------------- Main Font */
+
 body {
   font-family: "Lato", sans-serif;
 }
 
-header {
-  box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.21);
-  background: #fff;
-}
-
-.navbar-light .navbar-nav .nav-link {
-  color: #50545a;
-  margin-right: 0.8rem;
-}
+/* ------------------------- Colors */
 
 .navbar-light .navbar-nav .active > .nav-link {
   color: #ff4100;
 }
 
-.btn-primary {
-  background-color: #ff4100;
-  border-color: #fff;
-  width: 7rem;
-  color: #fff;
+header {
+  box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.21);
+  background: #fff;
 }
 
 .btn-primary.focus,
@@ -51,4 +43,18 @@ header {
 
 .topnav a:hover {
   border-bottom: 1px solid #ff4100;
+}
+
+/* ------------------------- Nav Button Styles */
+
+.navbar-light .navbar-nav .nav-link {
+  color: #50545a;
+  margin-right: 0.8rem;
+}
+
+.btn-primary {
+  background-color: #ff4100;
+  border-color: #fff;
+  width: 7rem;
+  color: #fff;
 }
