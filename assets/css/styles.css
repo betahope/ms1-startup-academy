@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+header {
+  box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.21);
+  background: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #50545a;
+  margin-right: 0.8rem;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #ff4100;
+}
+
+.btn-primary {
+  background-color: #ff4100;
+  border-color: #fff;
+  width: 7rem;
+  color: #fff;
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+  background-color: #ff4100;
+  border-color: #fff;
+  color: #fff;
+  box-shadow: 0 0 0 0.2rem rgba(255, 65, 0, 0.5);
+}
+
+.btn-primary:not(:disabled):not(.disabled):active {
+  color: #fff;
+  background-color: #ff4100;
+  border-color: #ff4100;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 65, 0, 0.5);
+}
+
+.btn-primary:hover {
+  color: #ff4100;
+  border-color: #ff4100;
+  background-color: #fff;
+}
+
+.topnav a:hover {
+  border-bottom: 1px solid #ff4100;
+}
