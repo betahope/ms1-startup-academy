@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 
+:root {
+  --brand-color: #ff4100;
+  --brand-text-color: #50545a;
+}
+
 /* ------------------------- Main Font */
 
 body {
@@ -9,7 +14,7 @@ body {
 /* ------------------------- Colors */
 
 .navbar-light .navbar-nav .active > .nav-link {
-  color: #ff4100;
+  color: var(--brand-color);
 }
 
 header {
@@ -19,7 +24,7 @@ header {
 
 .btn-primary.focus,
 .btn-primary:focus {
-  background-color: #ff4100;
+  background-color: var(--brand-color);
   border-color: #fff;
   color: #fff;
   box-shadow: 0 0 0 0.2rem rgba(255, 65, 0, 0.5);
@@ -27,8 +32,8 @@ header {
 
 .btn-primary:not(:disabled):not(.disabled):active {
   color: #fff;
-  background-color: #ff4100;
-  border-color: #ff4100;
+  background-color: var(--brand-color);
+  border-color: var(--brand-color);
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus {
@@ -36,8 +41,8 @@ header {
 }
 
 .btn-primary:hover {
-  color: #ff4100;
-  border-color: #ff4100;
+  color: var(--brand-color);
+  border-color: var(--brand-color);
   background-color: #fff;
 }
 
@@ -45,12 +50,12 @@ header {
 .btn-light:focus {
   background-color: #fff;
   border-color: #fff;
-  color: #ff4100;
+  color: var(--brand-color);
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
 }
 
 .btn-light:not(:disabled):not(.disabled):active {
-  color: #ff4100;
+  color: var(--brand-color);
   background-color: #fff;
   border-color: #fff;
 }
@@ -60,28 +65,28 @@ header {
 }
 
 .btn-light:hover {
-  color: #ff4100;
+  color: var(--brand-color);
   border-color: #fff;
   background-color: #fff;
 }
 
 .btn-light {
-  color: #ff4100;
+  color: var(--brand-color);
 }
 
 .topnav a:hover {
-  border-bottom: 1px solid #ff4100;
+  border-bottom: 1px solid var(--brand-color);
 }
 
 /* ------------------------- Nav Button Styles */
 
 .navbar-light .navbar-nav .nav-link {
-  color: #50545a;
+  color: var(--brand-text-color);
   margin-right: 0.8rem;
 }
 
 .btn-primary {
-  background-color: #ff4100;
+  background-color: var(--brand-color);
   border-color: #fff;
   width: 7rem;
   color: #fff;
@@ -90,7 +95,7 @@ header {
 /* ------------------------- Footer */
 
 .bg-footer {
-  background: #ff4100;
+  background: var(--brand-color);
   width: 100%;
   height: 150%;
   padding-top: 1rem;
