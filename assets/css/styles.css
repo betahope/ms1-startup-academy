@@ -91,3 +91,13 @@ footer .row {
     font-size: 0.8rem;
   }
 }
+
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #fff;
+}
