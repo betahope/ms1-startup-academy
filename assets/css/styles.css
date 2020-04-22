@@ -119,6 +119,36 @@ p {
   color: #fff;
 }
 
+/* ------------------------- Academy's Objectives */
+
+.fa-bullseye {
+  color: var(--brand-color);
+  font-size: 2rem;
+}
+
+.objectives {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.objectives-title h2 {
+  display: inline-block;
+  color: var(--brand-color);
+  margin-left: 0.5rem;
+}
+
+.objectives-title {
+  margin-bottom: 2rem;
+}
+
+.objectives h4 {
+  color: var(--brand-color);
+}
+
+.objectives p {
+  color: var(--brand-text-color);
+}
+
 /* ------------------------- Footer */
 
 .bg-footer {
