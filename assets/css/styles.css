@@ -74,6 +74,22 @@ footer .row {
   margin-top: 1.3rem;
 }
 
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.button-message {
+  text-align: right;
+  font-weight: 300;
+  padding-right: 0;
+}
+
 .footer-copyright {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
@@ -84,20 +100,14 @@ footer .row {
   .footer-logo {
     margin-bottom: 1rem;
   }
+
+  .button-message {
+    text-align: center;
+  }
 }
 
 @media (max-width: 320px) {
   .footer-copyright {
     font-size: 0.8rem;
   }
-}
-
-footer a {
-  text-decoration: none;
-  color: #fff;
-}
-
-footer a:hover {
-  text-decoration: none;
-  color: #fff;
 }
