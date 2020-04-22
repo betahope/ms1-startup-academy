@@ -41,6 +41,34 @@ header {
   background-color: #fff;
 }
 
+.btn-light.focus,
+.btn-light:focus {
+  background-color: #fff;
+  border-color: #fff;
+  color: #ff4100;
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+}
+
+.btn-light:not(:disabled):not(.disabled):active {
+  color: #ff4100;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-light:not(:disabled):not(.disabled):active:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+}
+
+.btn-light:hover {
+  color: #ff4100;
+  border-color: #fff;
+  background-color: #fff;
+}
+
+.btn-light {
+  color: #ff4100;
+}
+
 .topnav a:hover {
   border-bottom: 1px solid #ff4100;
 }
@@ -110,4 +138,8 @@ footer a:hover {
   .footer-copyright {
     font-size: 0.8rem;
   }
+}
+
+.btn-light {
+  width: 8rem;
 }
