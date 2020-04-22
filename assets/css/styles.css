@@ -92,6 +92,33 @@ header {
   color: #fff;
 }
 
+/* ------------------------- What You Get Section */
+
+.fa-check-circle {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.what-you-get {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.get-title {
+  margin-bottom: 2rem;
+}
+
+.get-title h2 {
+  display: inline-block;
+  color: #fff;
+  margin-left: 0.5rem;
+}
+
+.what-you-get h4,
+p {
+  color: #fff;
+}
+
 /* ------------------------- Footer */
 
 .bg-footer {
