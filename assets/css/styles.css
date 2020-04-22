@@ -58,3 +58,36 @@ header {
   width: 7rem;
   color: #fff;
 }
+
+/* ------------------------- Footer */
+
+.bg-footer {
+  background: #ff4100;
+  width: 100%;
+  height: 150%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  line-height: 3rem;
+}
+
+footer .row {
+  margin-top: 1.3rem;
+}
+
+.footer-copyright {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 961px) {
+  .footer-logo {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 320px) {
+  .footer-copyright {
+    font-size: 0.8rem;
+  }
+}
