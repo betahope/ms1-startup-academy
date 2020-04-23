@@ -124,7 +124,7 @@ header {
   color: #fff;
 }
 
-/* ------------------------- Hero Section */
+/* ------------------------- Index Hero Section */
 
 .hero {
   width: 100vw;
@@ -165,12 +165,13 @@ header {
 }
 
 .hero .btn {
-  padding: 1em;
+  padding: 0.5rem;
   margin-top: 2rem;
 }
 
 .hero .btn-index {
   width: 12rem;
+  font-size: var(--text-h4);
 }
 
 /* ------------------------- What You Get Section */
@@ -258,12 +259,13 @@ p {
 }
 
 .hero-slack .btn {
-  padding: 1em;
+  padding: 0.5rem;
   margin-top: 2rem;
 }
 
 .hero-slack .btn-slack {
   width: 15rem;
+  font-size: var(--text-h4);
 }
 
 /* ------------------------- Footer */
