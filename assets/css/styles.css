@@ -50,7 +50,7 @@ h4 {
 }
 
 header {
-  box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.21);
+  /* box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.21); */
   background: #fff;
 }
 
@@ -264,8 +264,39 @@ p {
 }
 
 .hero-slack .btn-slack {
-  width: 15rem;
+  width: 19rem;
   font-size: var(--text-h4);
+}
+
+/* ------------------------- Topics Page Hero */
+
+.hero-topics {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/4XKa50N.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.hero-topics h1 {
+  font-size: var(--hero-h1);
+  margin-bottom: 1.5rem;
+}
+
+.hero-topics h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero-topics h3 {
+  font-weight: 300;
 }
 
 /* ------------------------- Footer */
@@ -337,5 +368,9 @@ footer a:hover {
 
   .footer-copyright {
     font-size: 0.8rem;
+  }
+
+  .hero-slack .btn-slack {
+    width: 16rem;
   }
 }
