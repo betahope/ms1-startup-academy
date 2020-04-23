@@ -3,6 +3,8 @@
 :root {
   --brand-color: #e54725;
   --brand-text-color: #50545a;
+  --hero-h1: 5rem;
+  --hero-logo: 6rem;
 }
 
 /* ------------------------- Main Font */
@@ -109,8 +111,12 @@ header {
   background-attachment: fixed;
 }
 
+.hero img {
+  height: var(--hero-logo);
+}
+
 .hero h1 {
-  font-size: 5rem;
+  font-size: var(--hero-h1);
   margin-bottom: 1.5rem;
 }
 
@@ -244,7 +250,12 @@ footer a:hover {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 420px) {
+  :root {
+    --hero-h1: 3rem;
+    --hero-logo: 4rem;
+  }
+
   .footer-copyright {
     font-size: 0.8rem;
   }
