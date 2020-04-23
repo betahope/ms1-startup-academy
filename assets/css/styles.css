@@ -231,6 +231,38 @@ p {
   color: var(--brand-text-color);
 }
 
+/* ------------------------- Change The World */
+
+.change-world {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.change-world a {
+  width: 10rem;
+  font-size: var(--text-h4);
+  margin-bottom: 1rem;
+}
+
+.change-world h2 {
+  display: inline-block;
+  color: var(--brand-text-color);
+  font-weight: 700;
+}
+
+.change-title {
+  margin-bottom: 1.5rem;
+}
+
+.change-world h4 {
+  color: var(--brand-text-color);
+  margin-bottom: 2.5rem;
+}
+
+.change-world p {
+  color: var(--brand-text-color);
+}
+
 /* ------------------------- Slack Page Hero */
 
 .hero-slack {
