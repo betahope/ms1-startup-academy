@@ -92,6 +92,48 @@ header {
   color: #fff;
 }
 
+/* ------------------------- Hero Section */
+
+.hero {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/ZnyFklO.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.hero h1 {
+  font-size: 5rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero h3 {
+  font-weight: 300;
+}
+
+.col-12.col-lg-2.hero-logo {
+  padding-right: 0;
+  margin-right: 0;
+}
+
+.hero .btn {
+  width: 12rem;
+  padding: 1em;
+  margin-top: 2rem;
+}
+
 /* ------------------------- What You Get Section */
 
 .fa-check-circle {
