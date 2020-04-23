@@ -228,6 +228,12 @@ footer a:hover {
   font-size: 0.9rem;
 }
 
+.btn-light {
+  width: 8rem;
+}
+
+/* ------------------------- Media Queries */
+
 @media (max-width: 961px) {
   .footer-logo {
     margin-bottom: 1rem;
@@ -242,8 +248,4 @@ footer a:hover {
   .footer-copyright {
     font-size: 0.8rem;
   }
-}
-
-.btn-light {
-  width: 8rem;
 }
