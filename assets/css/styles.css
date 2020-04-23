@@ -128,7 +128,7 @@ header {
 
 .hero {
   width: 100vw;
-  height: 100vh;
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -165,9 +165,12 @@ header {
 }
 
 .hero .btn {
-  width: 12rem;
   padding: 1em;
   margin-top: 2rem;
+}
+
+.hero .btn-index {
+  width: 12rem;
 }
 
 /* ------------------------- What You Get Section */
@@ -225,6 +228,42 @@ p {
 
 .objectives p {
   color: var(--brand-text-color);
+}
+
+/* ------------------------- Slack Page Hero */
+
+.hero-slack {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/zm38JBN.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.hero-slack h1 {
+  font-size: var(--hero-h1);
+  margin-bottom: 1.5rem;
+}
+
+.hero-slack h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero-slack .btn {
+  padding: 1em;
+  margin-top: 2rem;
+}
+
+.hero-slack .btn-slack {
+  width: 15rem;
 }
 
 /* ------------------------- Footer */
