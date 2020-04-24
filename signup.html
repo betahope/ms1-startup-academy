@@ -68,7 +68,97 @@
         </nav>
       </div>
     </header>
-    <section></section>
+    <section class="hero hero-signup">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <span><i class="fa fa-university"></i></span>
+            <h2>The Startup Science</h2>
+          </div>
+          <div class="col-12 hero-message">
+            <h4>
+              We'd love for you to join us. Complete the form below, and we'll
+              get back to you soon.
+            </h4>
+          </div>
+          <div class="col-12">
+            <!-- Form initial structure taken from https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export and adapted to project needs -->
+            <form class="border border-light p-3" action="#!" method="post">
+              <!-- First name -->
+              <label for="firstName"> First Name:</label>
+              <input
+                type="text"
+                id="firstName"
+                name="firstName"
+                class="form-control mb-4"
+                required
+              />
+
+              <!-- Last name -->
+              <label for="lastName"> Last Name:</label>
+              <input
+                type="text"
+                id="lastName"
+                name="lastName"
+                class="form-control mb-4"
+                required
+              />
+
+              <!-- E-mail -->
+              <label for="email">Email:</label>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                class="form-control mb-4"
+                placeholder="Your LMS login email"
+                required
+              />
+
+              <!-- Phone number -->
+              <label for="phoneNumber">Phone Number:</label>
+              <input
+                type="text"
+                id="phoneNumber"
+                name="phoneNumber"
+                class="form-control mb-4"
+                required
+              />
+
+              <!-- Code Institute Privacy message taken from the form here: https://codeinstitute.net/full-stack-software-development-diploma/ -->
+              <p class="privacy">
+                Code Institute is committed to protecting your privacy and will
+                only contact you about our products and services. You may
+                unsubscribe from these communications at any time. For more
+                information please review our
+                <a
+                  href="https://codeinstitute.net/privacy-policy/"
+                  target="_blank"
+                  >Privacy Policy</a
+                >.
+              </p>
+
+              <!-- Sign up button -->
+              <button class="btn btn-primary my-4 btn-block" type="submit">
+                Sign Up
+              </button>
+
+              <hr />
+
+              <!-- Terms of service -->
+              <p class="terms">
+                By clicking <em>Sign up</em> you agree to our
+                <a
+                  href="https://codeinstitute.net/terms-and-conditions/"
+                  target="_blank"
+                  >Terms of service</a
+                >
+              </p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
     <footer class="page-footer font-small bg-footer text-white">
       <div class="container">
         <div class="row text-center d-flex justify-content-center">

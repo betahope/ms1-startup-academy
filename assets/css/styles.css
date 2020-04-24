@@ -17,10 +17,16 @@
   --hero-logo: 6rem;
 }
 
-/* ------------------------- Main Font */
+/* ------------------------- Main Elements */
 
 body {
   font-family: "Lato", sans-serif;
+}
+
+a {
+  color: inherit;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 p {
@@ -130,23 +136,66 @@ header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/ZnyFklO.jpg");
   color: #fff;
+  width: 100vw;
+  height: 90vh;
 }
 
 .hero-slack {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/zm38JBN.jpg");
   color: #fff;
+  width: 100vw;
+  height: 90vh;
 }
 
 .hero-topics {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/4XKa50N.jpg");
   color: #fff;
+  width: 100vw;
+  height: 90vh;
+}
+
+.hero-signup {
+  width: 70vw;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.hero-signup form {
+  text-align: left;
+}
+
+.hero-signup .privacy {
+  color: var(--brand-text-color);
+  background-color: lightgrey;
+  padding: 0.5rem;
+}
+
+.hero-signup .terms {
+  color: var(--brand-text-color);
+}
+
+.hero-signup h2,
+i {
+  color: var(--brand-color);
+}
+
+.hero-signup h2 {
+  font-size: var(--text-h1);
+}
+
+.hero-signup i {
+  font-size: var(--hero-h1);
+  margin-top: 1rem;
+}
+
+.hero-signup .btn {
+  width: 12rem;
+  font-size: var(--text-h4);
 }
 
 .hero {
-  width: 100vw;
-  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -358,5 +407,11 @@ footer a:hover {
 
   .hero-slack .btn-slack {
     width: 16rem;
+  }
+
+  .hero-signup {
+    width: 80vw;
+    text-align: center;
+    margin: 0 auto;
   }
 }
