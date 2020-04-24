@@ -169,6 +169,7 @@ header {
   color: var(--brand-text-color);
   background-color: lightgrey;
   padding: 0.5rem;
+  border-radius: 0.25rem;
 }
 
 .hero-signup .terms {
