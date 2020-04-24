@@ -126,19 +126,22 @@ header {
 
 /* ------------------------- Hero Section */
 
-.hero-img-index {
+.hero-index {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/ZnyFklO.jpg");
+  color: #fff;
 }
 
-.hero-img-slack {
+.hero-slack {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/zm38JBN.jpg");
+  color: #fff;
 }
 
-.hero-img-topics {
+.hero-topics {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/4XKa50N.jpg");
+  color: #fff;
 }
 
 .hero {
@@ -147,7 +150,6 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: white;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
