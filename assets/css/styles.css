@@ -501,4 +501,8 @@ footer a:hover {
     width: 90vw;
     margin: 5rem auto;
   }
+
+  .sprints {
+    width: 90vw;
+  }
 }
