@@ -51,6 +51,14 @@ h4 {
 
 /* ------------------------- Colors */
 
+.sprints p {
+  color: var(--brand-text-color);
+}
+
+.sprints h4 {
+  color: var(--brand-color);
+}
+
 .hero-help p {
   color: var(--brand-text-color);
 }
@@ -352,6 +360,18 @@ p {
 
 .change-world p {
   color: var(--brand-text-color);
+}
+
+/* ------------------------- Topics Page Sprints */
+
+.sprints img {
+  width: 100%;
+  border-radius: 0.25rem;
+}
+
+.sprints {
+  width: 70vw;
+  margin: 5rem auto;
 }
 
 /* ------------------------- Slack Page Hero */
