@@ -137,24 +137,21 @@ header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/ZnyFklO.jpg");
   color: #fff;
-  width: 100vw;
-  height: 90vh;
+  height: 92vh;
 }
 
 .hero-slack {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/zm38JBN.jpg");
   color: #fff;
-  width: 100vw;
-  height: 90vh;
+  height: 92vh;
 }
 
 .hero-topics {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/4XKa50N.jpg");
   color: #fff;
-  width: 100vw;
-  height: 90vh;
+  height: 92vh;
 }
 
 .hero-signup {
