@@ -165,6 +165,11 @@ header {
   margin-bottom: 3rem;
 }
 
+.hero-signup ::placeholder {
+  color: #bebebe;
+  font-weight: 300;
+}
+
 .hero-signup .privacy {
   color: var(--brand-text-color);
   background-color: lightgrey;
@@ -177,7 +182,8 @@ header {
 }
 
 .hero-signup h2,
-i {
+i,
+span {
   color: var(--brand-color);
 }
 
