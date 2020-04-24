@@ -364,8 +364,8 @@ p {
 /* ------------------------- Help Page */
 
 .hero-help {
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+  width: 70vw;
+  margin: 5rem auto;
 }
 
 .hero-help h1 {
@@ -379,8 +379,8 @@ p {
 /* ------------------------- FAQ Page */
 
 .hero-faq {
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+  width: 70vw;
+  margin: 5rem auto;
 }
 
 .hero-faq h1 {
@@ -470,5 +470,15 @@ footer a:hover {
     width: 80vw;
     text-align: center;
     margin: 0 auto;
+  }
+
+  .hero-faq {
+    width: 90vw;
+    margin: 5rem auto;
+  }
+
+  .hero-help {
+    width: 90vw;
+    margin: 5rem auto;
   }
 }
