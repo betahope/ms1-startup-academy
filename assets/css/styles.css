@@ -51,6 +51,16 @@ h4 {
 
 /* ------------------------- Colors */
 
+.hero-help p {
+  color: var(--brand-text-color);
+}
+
+.hero-help h1,
+h3,
+a {
+  color: var(--brand-color);
+}
+
 .navbar-light .navbar-nav .active > .nav-link {
   color: var(--brand-color);
 }
@@ -338,6 +348,21 @@ p {
 .hero .btn-slack {
   width: 19rem;
   font-size: var(--text-h4);
+}
+
+/* ------------------------- Help Page */
+
+.hero-help {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.hero-help h1 {
+  margin-bottom: 1.5rem;
+}
+
+.hero-help h2 {
+  margin-bottom: 2rem;
 }
 
 /* ------------------------- Footer */
