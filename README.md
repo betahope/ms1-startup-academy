@@ -8,13 +8,17 @@
 
 ## Index
 
-- [Project Definition](#Code-Institute-Startup-Academy)
+- <a href="#project">Project Definition 📃</a>
 - <a href="#ux">UX 💻</a>
 - <a href="#features">Features ⚙</a>
 - <a href="#technologies">Technologies Used 🔩</a>
 - <a href="#testing">Testing 🧪</a>
+- <a href="#deployment">Deployment 🚀</a>
+- <a href="#credits">Credits 👉</a>
 
 ---
+
+<span id="project"></span>
 
 # Code Institute Startup Academy
 
@@ -126,10 +130,8 @@ Below you will find the website's wireframes. These were generated using Balsami
 
 ### 3.3 IDEs 🖥
 
-- [**VS Code**](https://code.visualstudio.com/)
-  - The project used the **VS Code** IDE to develop the website.
 - [**Gitpod**](https://www.gitpod.io/)
-  - The project used the **Gitpod** IDE to complement the development of the website when needed.
+  - The project used the **Gitpod** IDE to develop the website.
 
 ### 3.4 External Hostings 🏢
 
@@ -146,52 +148,101 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ## 4. Testing 🧪
 
----
+### 4.1 Testing Tools ⚗
 
-## Testing
+- [**JSFiddle**](https://jsfiddle.net/)
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+  - The project used the **JSFiddle** tool to test ideas and codes in a safe environment.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+- [**Chrome DevTools**](https://developers.google.com/web/tools/chrome-devtools)
+  - The project used **Chrome DevTools** to test variations to the CSS rules and ideas to its optimisation.
+  - The project also used it to [**Simulate Mobile Devices**](https://developers.google.com/web/tools/chrome-devtools/device-mode) and test the website behaviour on mobile views.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+### 4.2 Testing User Stories 🙆‍♀️
 
-1. Contact form:
-   1. Go to the "Contact Us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
+Going over the user stories indicated in the UX section to ensure that they work as intended.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+1. To learn more about the programme and what knowledge is shared.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+   1. Go to the "Topics" page through the top menu.
+   2. Scroll down through the page to review each Sprint and the knowledge shared in each of them.
+   3. Learn with it that the programme is split into six Sprints.
+   4. Learn with it that each Sprint covers two topics.
+   5. Try to accomplish the steps both on desktop and mobile views.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+2. To clarify questions they have about the Academy.
 
-_<div style="text-align: right"><a href="#top">Back to top</a></div>_
+   1. Go to the "FAQ" page through the footer.
+   2. Scroll down through the page to review each question and the answer to each of them.
+   3. Try to use the contact option to get in touch with the Academy team and clarify additional questions.
+   4. Try to accomplish the steps both on desktop and mobile views.
 
-## Deployment
+3. To register to participate.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+   1. Go to the "Sign Up" page through the menu or footer button. The "Home" page also provides two additional buttons with the main content.
+   2. Try to submit an empty registration form and verify that an error message about the required fields appears.
+   3. Try to submit the registration form with an invalid email address and check that the error message appears.
+   4. Try to submit the registration form with all inputs valid and verify that the information is processed.
+   5. Try to accomplish the steps both on desktop and mobile views.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+4. To get in touch with the Startup Academy team.
 
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+   1. Go to the footer of the website, on any page.
+   2. Try to click on the "Contact" link to send an email to the Startup Academy team.
+   3. Try to accomplish the steps both on desktop and mobile views.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+5. To access the dedicated Slack channel for the Academy.
+   1. Go to the "Slack" page through the top menu.
+   2. Try to click on the "Join The Startup Channel" button to access the #startups channel in the Code Institute's Slack workspace.
+   3. Try to accomplish the steps both on desktop and mobile views.
 
-## Credits
+### 4.3 Bugs & Problems 🐛
 
-### Content
+There were no brand-new or relevant bugs/problems during the development of this project.
 
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+The usual suspects were always there because of my lack of experience and mistyping the code.
 
-### Media
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
-- The photos used in this site were obtained from ...
+<span id="deployment"></span>
 
-### Acknowledgements
+## 5. Deployment 🚀
 
-- I received inspiration for this project from X
+Carlos developed this project using Gitpod’s IDE. He pushed all developments to the corresponding repository inside his GitHub account.
+He followed the steps below:
+
+1. He first created the repository inside his GitHub account. Repo URL: https://github.com/RohrerHope/ms1-startup-academy.
+2. He launched the project on Gitpod from the repository, using Gitpod's Chrome extension.
+3. He continued his work and development on Gitpod.
+4. He pushed all relevant and significant changes to the repository, from Gitpod, regularly.
+
+There are no differences between the deployed and the developed version. Carlos used one branch: master.
+
+You can run and view the project by following this URL: https://rohrerhope.github.io/ms1-startup-academy/.
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
+
+<span id="credits"></span>
+
+## 6. Credits 👉
+
+### 6.1 Code Snippets 🧬
+
+- Inspiration for the navigation bar: https://bootsnipp.com/snippets/vlXGB.
+- Inspiration for the hero section: https://codetheweb.blog/demo/full-image-hero/.
+- Inspiration for the Sign Up form: https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export.
+- Privacy message on the Sign Up form: https://codeinstitute.net/full-stack-software-development-diploma/.
+
+### 6.2 Media 📸
+
+- Code Institute Logo: https://codeinstitute.net/.
+- Font Awesome Icons: https://fontawesome.com/
+- Startup Academy Icon: https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon.
+- Hero Images & Topics: https://www.pexels.com/.
+
+### 6.3 Acknowledgements 🙏
+
+- **Ciara Browne**: Thanks for believing in the Startup Academy project and for giving it space in your schedule.
+- **Maria Mcloughlin**: Thanks for your support. For believing in the overall project, which led to the birth of the #startups channel on Slack. Thank you for the opportunity to be part of your podcast and share a bit of my story and purpose.
+- **Jonathan Munz**: Thanks for your support as a mentor. You have provided excellent guidance, feedback and inputs into my ideas and development.
+- **CI Slack Community**: Through several conversations and calls, I continuously improve my knowledge as an engineer, and I grow as a person.
