@@ -246,3 +246,5 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 - **Maria Mcloughlin**: Thanks for your support. For believing in the overall project, which led to the birth of the #startups channel on Slack. Thank you for the opportunity to be part of your podcast and share a bit of my story and purpose.
 - **Jonathan Munz**: Thanks for your support as a mentor. You have provided excellent guidance, feedback and inputs into my ideas and development.
 - **CI Slack Community**: Through several conversations and calls, I continuously improve my knowledge as an engineer, and I grow as a person.
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
