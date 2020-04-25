@@ -148,12 +148,12 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ## 4. Testing 🧪
 
+## 4. Testing 🧪
+
 ### 4.1 Testing Tools ⚗
 
 - [**JSFiddle**](https://jsfiddle.net/)
-
   - The project used the **JSFiddle** tool to test ideas and codes in a safe environment.
-
 - [**Chrome DevTools**](https://developers.google.com/web/tools/chrome-devtools)
   - The project used **Chrome DevTools** to test variations to the CSS rules and ideas to its optimisation.
   - The project also used it to [**Simulate Mobile Devices**](https://developers.google.com/web/tools/chrome-devtools/device-mode) and test the website behaviour on mobile views.
