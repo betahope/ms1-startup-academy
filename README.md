@@ -237,8 +237,8 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 - Code Institute Logo: https://codeinstitute.net/.
 - Font Awesome Icons: https://fontawesome.com/
-- Startup Academy Icon: https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon.
-- Hero Images & Topics: https://www.pexels.com/.
+- Startup Academy Proposed Icon: https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon.
+- Images for Heros & Topics: https://www.pexels.com/.
 
 ### 6.3 Acknowledgements 🙏
 
