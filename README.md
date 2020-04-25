@@ -241,9 +241,9 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ### 6.3 Acknowledgements 🙏
 
-- **Ciara Browne**: Thanks for believing in the Startup Academy project and for giving it space in your schedule.
-- **Maria Mcloughlin**: Thanks for your support. For believing in the overall project, which led to the birth of the #startups channel on Slack. Thank you for the opportunity to be part of your podcast and share a bit of my story and purpose.
-- **Jonathan Munz**: Thanks for your support as a mentor. You have provided excellent guidance, feedback and inputs into my ideas and development.
+- **Ciara Browne _(CI Government Channel Manager)_**: Thanks for believing in the Startup Academy project and for giving it space in your schedule.
+- **Maria Mcloughlin _(CI Slack Community)_**: Thanks for your support. For believing in the overall project, which led to the birth of the #startups channel on Slack. Thank you for the opportunity to be part of your podcast and share a bit of my story and purpose.
+- **Jonathan Munz _(CI Mentor)_**: Thanks for your support as a mentor. You have provided excellent guidance, feedback and inputs into my ideas and development. Looking forward to working together again on the next milestones.
 - **CI Slack Community**: Through several conversations and calls, I continuously improve my knowledge as an engineer, and I grow as a person.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
