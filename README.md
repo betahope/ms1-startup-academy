@@ -148,8 +148,6 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ## 4. Testing 🧪
 
-## 4. Testing 🧪
-
 ### 4.1 Testing Tools ⚗
 
 - [**JSFiddle**](https://jsfiddle.net/)
