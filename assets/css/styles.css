@@ -524,3 +524,22 @@ footer .footer-logo a:hover {
     width: 90vw;
   }
 }
+
+@media (max-width: 991px) {
+  :root {
+    /* Text */
+    --text-p: 0.9rem;
+    --text-h1: 2rem;
+    --hero-h1: 3rem;
+    --text-h2: 1.5rem;
+    --text-h3: 1.25rem;
+    --text-h4: 1.2rem;
+
+    /* Images & Logos */
+    --hero-logo: 4rem;
+  }
+
+  .topnav .btn {
+    margin-top: 1rem;
+  }
+}
