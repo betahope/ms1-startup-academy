@@ -236,7 +236,7 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 - Code Institute Logo: <a href="https://codeinstitute.net/" rel="noopener" target="_blank">https://codeinstitute.net/</a>.
 - Font Awesome Icons: <a href="https://fontawesome.com/" rel="noopener" target="_blank">https://fontawesome.com/</a>.
 - Startup Academy Proposed Icon: <a href="https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon" rel="noopener" target="_blank">https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon</a>.
-- Hero Images & Topics: <a href="https://www.pexels.com/" rel="noopener" target="_blank">https://www.pexels.com/</a>.
+- Images on Heros & Topics: <a href="https://www.pexels.com/" rel="noopener" target="_blank">https://www.pexels.com/</a>.
 - Lato, Google Font: <a href="https://fonts.google.com/specimen/Lato?query=lato" rel="noopener" target="_blank">https://fonts.google.com/specimen/Lato?query=lato</a>.
 
 ### 6.3 Acknowledgements 🙏
