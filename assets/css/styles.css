@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
 :root {
   /* Colors */
   --brand-color: #e54725;
@@ -85,6 +87,7 @@ a {
 
 header {
   z-index: 10;
+  -webkit-box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.21);
   box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.21);
   background: #fff;
 }
@@ -94,6 +97,7 @@ header {
   background-color: var(--brand-color);
   border-color: #fff;
   color: #fff;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 65, 0, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 65, 0, 0.5);
 }
 
@@ -104,6 +108,7 @@ header {
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 65, 0, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 65, 0, 0.5);
 }
 
@@ -118,6 +123,7 @@ header {
   background-color: #fff;
   border-color: #fff;
   color: var(--brand-color);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
 }
 
@@ -128,6 +134,7 @@ header {
 }
 
 .btn-light:not(:disabled):not(.disabled):active:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
 }
 
@@ -162,6 +169,16 @@ header {
 /* ------------------------- Hero Section */
 
 .hero-index {
+  background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 0.5)),
+      to(rgba(0, 0, 0, 0.5))
+    ),
+    url("https://i.imgur.com/ZnyFklO.jpg");
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/ZnyFklO.jpg");
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/ZnyFklO.jpg");
   color: #fff;
@@ -169,6 +186,16 @@ header {
 }
 
 .hero-slack {
+  background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 0.5)),
+      to(rgba(0, 0, 0, 0.5))
+    ),
+    url("https://i.imgur.com/zm38JBN.jpg");
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/zm38JBN.jpg");
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/zm38JBN.jpg");
   color: #fff;
@@ -176,6 +203,16 @@ header {
 }
 
 .hero-topics {
+  background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 0.5)),
+      to(rgba(0, 0, 0, 0.5))
+    ),
+    url("https://i.imgur.com/4XKa50N.jpg");
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/4XKa50N.jpg");
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://i.imgur.com/4XKa50N.jpg");
   color: #fff;
@@ -191,6 +228,26 @@ header {
 .hero-signup form {
   text-align: left;
   margin-bottom: 3rem;
+}
+
+.hero-signup ::-webkit-input-placeholder {
+  color: #bebebe;
+  font-weight: 300;
+}
+
+.hero-signup ::-moz-placeholder {
+  color: #bebebe;
+  font-weight: 300;
+}
+
+.hero-signup :-ms-input-placeholder {
+  color: #bebebe;
+  font-weight: 300;
+}
+
+.hero-signup ::-ms-input-placeholder {
+  color: #bebebe;
+  font-weight: 300;
 }
 
 .hero-signup ::placeholder {
@@ -230,8 +287,14 @@ span {
 }
 
 .hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   background-size: cover;
   background-position: center center;
