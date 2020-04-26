@@ -1,31 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="icon"
+      href="https://i.imgur.com/1OvoNNN.png"
+      type="image/png"
+      sizes="16x16"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <title>Startup Academy</title>
+  </head>
 
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<link rel="icon" href="https://i.imgur.com/1OvoNNN.png" type="image/png" sizes="16x16" />
-	<link rel="stylesheet"
-		href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
-	<link rel="stylesheet" href="assets/css/styles.css" />
-	<title>Startup Academy</title>
-</head>
-
-<body>
-	<!-- Header / Navigation -->
-	<header class="sticky-top">
-		<div class="container">
-			<!-- Navigation main structure code from https://bootsnipp.com/snippets/vlXGB and adapted to the project -->
-			<nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
-				<a class="navbar-brand" href="index.html">
-					<img
+  <body>
+    <!-- Header / Navigation -->
+    <header class="sticky-top">
+      <div class="container">
+        <!-- Navigation main structure code from https://bootsnipp.com/snippets/vlXGB and adapted to the project -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
+          <a class="navbar-brand" href="index.html">
+            <img
               src="https://i.imgur.com/ka262uI.png"
               alt="Startup Academy Logo"
               height="60"
           /></a>
-					<button
+          <button
             class="navbar-toggler"
             type="button"
             data-toggle="collapse"
@@ -37,51 +46,57 @@
             <span class="navbar-toggler-icon"></span>
           </button>
 
-					<div class="collapse navbar-collapse" id="navbarSupportedContent">
-						<ul class="navbar-nav ml-auto topnav">
-							<li class="nav-item">
-								<a class="nav-link" href="index.html">Home</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="topics.html">Topics</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="slack.html">Slack</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="help.html">Help</a>
-							</li>
-							<li class="nav-item active">
-								<a class="btn btn-primary" type="button" href="signup.html">Sign Up
-									<span class="sr-only">(current)</span></a>
-							</li>
-						</ul>
-					</div>
-			</nav>
-		</div>
-	</header>
-	<!-- /. Header / Navigation -->
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto topnav">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="topics.html">Topics</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="slack.html">Slack</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="help.html">Help</a>
+              </li>
+              <li class="nav-item active">
+                <a class="btn btn-primary" type="button" href="signup.html"
+                  >Sign Up <span class="sr-only">(current)</span></a
+                >
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- /. Header / Navigation -->
 
-	<!-- Sign Up Section -->
-	<section class="hero hero-signup">
-		<div class="container">
-			<div class="row">
-				<div class="col-12">
-					<span><i class="fa fa-university"></i></span>
-					<h2>Join The Startup Academy</h2>
-				</div>
-				<div class="col-12 hero-message mb-4">
-					<h4>
-						We'd love for you to join us. Complete the form below, and we'll
-						get back to you soon.
-					</h4>
-				</div>
-				<div class="col-12">
-					<!-- Form initial structure taken from https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export and adapted to project needs -->
-					<form class="border border-light p-3" action="#" method="post" aria-label="Sign Up Form">
-						<!-- First name -->
-						<label for="firstName"> First Name: <span>*</span></label>
-						<input
+    <!-- Sign Up Section -->
+    <section class="hero hero-signup">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <span><i class="fa fa-university"></i></span>
+            <h2>Join The Academy</h2>
+          </div>
+          <div class="col-12 hero-message mb-4">
+            <h4>
+              We'd love for you to join us. Complete the form below, and we'll
+              get back to you soon.
+            </h4>
+          </div>
+          <div class="col-12">
+            <!-- Form initial structure taken from https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export and adapted to project needs -->
+            <form
+              class="border border-light p-3"
+              action="#"
+              method="post"
+              aria-label="Sign Up Form"
+            >
+              <!-- First name -->
+              <label for="firstName"> First Name: <span>*</span></label>
+              <input
                 type="text"
                 id="firstName"
                 name="firstName"
@@ -89,9 +104,9 @@
                 required
               />
 
-						<!-- Last name -->
-						<label for="lastName"> Last Name: <span>*</span></label>
-						<input
+              <!-- Last name -->
+              <label for="lastName"> Last Name: <span>*</span></label>
+              <input
                 type="text"
                 id="lastName"
                 name="lastName"
@@ -99,9 +114,9 @@
                 required
               />
 
-						<!-- E-mail -->
-						<label for="email">Email: <span>*</span></label>
-						<input
+              <!-- E-mail -->
+              <label for="email">Email: <span>*</span></label>
+              <input
                 type="email"
                 id="email"
                 name="email"
@@ -110,9 +125,9 @@
                 required
               />
 
-						<!-- Phone number -->
-						<label for="phoneNumber">Phone Number: <span>*</span></label>
-						<input
+              <!-- Phone number -->
+              <label for="phoneNumber">Phone Number: <span>*</span></label>
+              <input
                 type="text"
                 id="phoneNumber"
                 name="phoneNumber"
@@ -120,17 +135,21 @@
                 required
               />
 
-						<!-- Code Institute Privacy message taken from the form here: https://codeinstitute.net/full-stack-software-development-diploma/ -->
-						<p class="privacy">
-							Code Institute is committed to protecting your privacy and will
-							only contact you about our products and services. You may
-							unsubscribe from these communications at any time. For more
-							information please review our
-							<a href="https://codeinstitute.net/privacy-policy/" target="_blank">Privacy Policy</a>.
-						</p>
+              <!-- Code Institute Privacy message taken from the form here: https://codeinstitute.net/full-stack-software-development-diploma/ -->
+              <p class="privacy">
+                Code Institute is committed to protecting your privacy and will
+                only contact you about our products and services. You may
+                unsubscribe from these communications at any time. For more
+                information please review our
+                <a
+                  href="https://codeinstitute.net/privacy-policy/"
+                  target="_blank"
+                  >Privacy Policy</a
+                >.
+              </p>
 
-						<!-- Sign up button -->
-						<button
+              <!-- Sign up button -->
+              <button
                 class="btn btn-primary my-4 btn-block"
                 type="submit"
                 aria-label="Sign Up Form Submission Button"
@@ -138,58 +157,71 @@
                 Sign Up
               </button>
 
-						<hr />
+              <hr />
 
-						<!-- Terms of service -->
-						<p class="terms">
-							By clicking <em>Sign Up</em> you agree to our
-							<a href="https://codeinstitute.net/terms-and-conditions/" target="_blank">Terms of
-								service</a>
-						</p>
-					</form>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- /. Sign Up Section -->
+              <!-- Terms of service -->
+              <p class="terms">
+                By clicking <em>Sign Up</em> you agree to our
+                <a
+                  href="https://codeinstitute.net/terms-and-conditions/"
+                  target="_blank"
+                  >Terms of service</a
+                >
+              </p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /. Sign Up Section -->
 
-	<!-- Footer -->
-	<footer class="page-footer font-small bg-footer text-white">
-		<div class="container">
-			<div class="row text-center d-flex justify-content-center">
-				<div class="col-md-2 footer-logo">
-					<a href="https://codeinstitute.net/" target="_blank"><img
+    <!-- Footer -->
+    <footer class="page-footer font-small bg-footer text-white">
+      <div class="container">
+        <div class="row text-center d-flex justify-content-center">
+          <div class="col-md-2 footer-logo">
+            <a href="https://codeinstitute.net/" target="_blank"
+              ><img
                 src="https://i.imgur.com/XeDBzqr.png"
                 alt="Code Institute Logo"
                 height="40"
             /></a>
-				</div>
-				<div class="col-sm-offset-3 col-sm-2 col-md-offset-0 col-md-1">
-					<a href="https://codeinstitute.net/privacy-policy/" target="_blank">Privacy</a>
-				</div>
-				<div class="col-sm-offset-0 col-sm-2 col-md-1">
-					<a href="faq.html">FAQ</a>
-				</div>
-				<div class="col-sm-2 col-md-1">
-					<a href="mailto:startupacademy@codeinstitute.net">Contact</a>
-				</div>
-				<div class="col-xs-7 col-sm-12 col-md-offset-1 col-md-4 button-message">
-					Make the world a better place!
-				</div>
-				<div class="col-xs-5 col-sm-12 col-md-2">
-					<a class="btn btn-light" type="button" href="signup.html" aria-label="Sign Up Button">Sign Up</a>
-				</div>
-				<div class="col-xs-12 footer-copyright py-3">
-					© 2020 Startup Academy by Code Institute. All rights reserved.
-				</div>
-			</div>
-		</div>
-	</footer>
-	<!-- /. Footer -->
+          </div>
+          <div class="col-sm-offset-3 col-sm-2 col-md-offset-0 col-md-1">
+            <a href="https://codeinstitute.net/privacy-policy/" target="_blank"
+              >Privacy</a
+            >
+          </div>
+          <div class="col-sm-offset-0 col-sm-2 col-md-1">
+            <a href="faq.html">FAQ</a>
+          </div>
+          <div class="col-sm-2 col-md-1">
+            <a href="mailto:startupacademy@codeinstitute.net">Contact</a>
+          </div>
+          <div
+            class="col-xs-7 col-sm-12 col-md-offset-1 col-md-4 button-message"
+          >
+            Make the world a better place!
+          </div>
+          <div class="col-xs-5 col-sm-12 col-md-2">
+            <a
+              class="btn btn-light"
+              type="button"
+              href="signup.html"
+              aria-label="Sign Up Button"
+              >Sign Up</a
+            >
+          </div>
+          <div class="col-xs-12 footer-copyright py-3">
+            © 2020 Startup Academy by Code Institute. All rights reserved.
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- /. Footer -->
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
-</body>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  </body>
 </html>
