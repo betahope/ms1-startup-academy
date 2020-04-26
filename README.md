@@ -142,6 +142,11 @@ Below you will find the website's wireframes. These were generated using Balsami
 - <a href="https://drive.google.com/" rel="noopener" target="_blank">**Google Drive**</a>
   - The project used the **Google Drive** service to host and access others files and documents online.
 
+### 3.5 Other Tools 🧰
+
+- <a href="https://autoprefixer.github.io/" rel="noopener" target="_blank">**Auto-Prefixer**</a>
+  - The project used the **Auto-Prefixer** to add CSS compatibility with other browsers.
+
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 <span id="testing"></span>
