@@ -539,7 +539,12 @@ footer .footer-logo a:hover {
     --hero-logo: 4rem;
   }
 
+  .topnav {
+    text-align: center;
+  }
+
   .topnav .btn {
     margin-top: 1rem;
+    margin-bottom: 1rem;
   }
 }
