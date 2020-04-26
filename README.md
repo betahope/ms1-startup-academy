@@ -89,10 +89,10 @@ The website provides:
 
 Below you will find the website's wireframes. These were generated using Balsamiq. There are four versions of the wireframes. Choose your option:
 
-- Wireframes for the [desktop version in PDF](https://drive.google.com/file/d/1idAXa3Im9vHfMWTc6PS4m94JngKpV0qr/view?usp=sharing).
-- Wireframes for the [mobile version in PDF](https://drive.google.com/file/d/1IPgsA4cvubWJY1UrtYPMe4MlqKCMbCwh/view?usp=sharing).
-- Wireframes for the [desktop version in Balsamiq](https://drive.google.com/file/d/1axsIlF8OUMhDCYMkokbSL0YRXvrxud5V/view?usp=sharing).
-- Wireframes for the [mobile version in Balsamiq](https://drive.google.com/file/d/1ZM1O03oX0w5p6cLx8tqdJHn-Zveptljx/view?usp=sharing).
+- Wireframes for the <a href="https://drive.google.com/file/d/1idAXa3Im9vHfMWTc6PS4m94JngKpV0qr/view?usp=sharing" target="_blank">desktop version in PDF</a>.
+- Wireframes for the <a href="https://drive.google.com/file/d/1IPgsA4cvubWJY1UrtYPMe4MlqKCMbCwh/view?usp=sharing" target="_blank">mobile version in PDF</a>.
+- Wireframes for the <a href="https://drive.google.com/file/d/1axsIlF8OUMhDCYMkokbSL0YRXvrxud5V/view?usp=sharing" target="_blank">desktop version in Balsamiq</a>.
+- Wireframes for the <a href="https://drive.google.com/file/d/1ZM1O03oX0w5p6cLx8tqdJHn-Zveptljx/view?usp=sharing" target="_blank">mobile version in Balsamiq</a>.
 
   _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
@@ -118,28 +118,28 @@ Below you will find the website's wireframes. These were generated using Balsami
 
 ### 3.1 Languages 🗣
 
-- [**HTML/HTML5**](https://en.wikipedia.org/wiki/HTML5)
+- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">**HTML/HTML5**</a>
   - The project used **HTML/HTML5** as this is the essential language of websites.
-- [**CSS/CSS3**](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">**CSS/CSS3**</a>
   - The project used **CSS/CSS3** to provide the styles for the website.
 
 ### 3.2 Frameworks ⌨
 
-- [**BootStrap 4**](https://getbootstrap.com/)
+- <a href="https://getbootstrap.com/" target="_blank">**BootStrap 4**</a>
   - The project used the **BootStrap 4** framework to help design the website faster and easier.
 
 ### 3.3 IDEs 🖥
 
-- [**Gitpod**](https://www.gitpod.io/)
+- <a href="https://www.gitpod.io/" target="_blank">**Gitpod**</a>
   - The project used the **Gitpod** IDE to develop the website.
 
 ### 3.4 External Hostings 🏢
 
-- [**GitHub**](https://github.com/)
+- <a href="https://github.com/" target="_blank">**GitHub**</a>
   - The project used the **GitHub** hosting service to save the project in a repository.
-- [**Imgur**](https://imgur.com/)
+- <a href="https://imgur.com/" target="_blank">**Imgur**</a>
   - The project used the **Imgur** service to host and access images online.
-- [**Google Drive**](https://drive.google.com/)
+- <a href="https://drive.google.com/" target="_blank">**Google Drive**</a>
   - The project used the **Google Drive** service to host and access others files and documents online.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
@@ -150,11 +150,11 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ### 4.1 Testing Tools ⚗
 
-- [**JSFiddle**](https://jsfiddle.net/)
+- <a href="https://jsfiddle.net/" target="_blank">**JSFiddle**</a>
   - The project used the **JSFiddle** tool to test ideas and codes in a safe environment.
-- [**Chrome DevTools**](https://developers.google.com/web/tools/chrome-devtools)
+- <a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank">**Chrome DevTools**</a>
   - The project used **Chrome DevTools** to test variations to the CSS rules and ideas to its optimisation.
-  - The project also used it to [**Simulate Mobile Devices**](https://developers.google.com/web/tools/chrome-devtools/device-mode) and test the website behaviour on mobile views.
+  - The project also used it to <a href="https://developers.google.com/web/tools/chrome-devtools/device-mode" target="_blank">**Simulate Mobile Devices**</a> and test the website behaviour on mobile views.
 
 ### 4.2 Testing User Stories 🙆‍♀️
 
@@ -209,14 +209,14 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 Carlos developed this project using Gitpod’s IDE. He pushed all developments to the corresponding repository inside his GitHub account.
 He followed the steps below:
 
-1. He first created the repository inside his GitHub account. Repo URL: https://github.com/RohrerHope/ms1-startup-academy.
+1. He first created the repository inside his GitHub account. Repo URL: <a href="https://github.com/RohrerHope/ms1-startup-academy" target="_blank">https://github.com/RohrerHope/ms1-startup-academy</a>.
 2. He launched the project on Gitpod from the repository, using Gitpod's Chrome extension.
 3. He continued his work and development on Gitpod.
 4. He pushed all relevant and significant changes to the repository, from Gitpod, regularly.
 
 There are no differences between the deployed and the developed version. Carlos used one branch: master.
 
-You can run and view the project by following this URL: https://rohrerhope.github.io/ms1-startup-academy/.
+You can run and view the project by following this URL: <a href="https://rohrerhope.github.io/ms1-startup-academy/" target="_blank">https://rohrerhope.github.io/ms1-startup-academy/</a>.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
@@ -226,18 +226,18 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ### 6.1 Code Snippets 🧬
 
-- Inspiration for the navigation bar: https://bootsnipp.com/snippets/vlXGB.
-- Inspiration for the hero section: https://codetheweb.blog/demo/full-image-hero/.
-- Inspiration for the Sign Up form: https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export.
-- Privacy message on the Sign Up form: https://codeinstitute.net/full-stack-software-development-diploma/.
+- Inspiration for the navigation bar: <a href="https://bootsnipp.com/snippets/vlXGB" target="_blank">https://bootsnipp.com/snippets/vlXGB</a>.
+- Inspiration for the hero section: <a href="https://codetheweb.blog/demo/full-image-hero/" target="_blank">https://codetheweb.blog/demo/full-image-hero/</a>.
+- Inspiration for the Sign Up form: <a href="https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export" target="_blank">https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export</a>.
+- Privacy message on the Sign Up form: <a href="https://codeinstitute.net/full-stack-software-development-diploma/" target="_blank">https://codeinstitute.net/full-stack-software-development-diploma/</a>.
 
 ### 6.2 Media 📸
 
-- Code Institute Logo: https://codeinstitute.net/.
-- Font Awesome Icons: https://fontawesome.com/
-- Startup Academy Proposed Icon: https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon.
-- Hero Images & Topics: https://www.pexels.com/.
-- Lato, Google Font: https://fonts.google.com/specimen/Lato?query=lato.
+- Code Institute Logo: <a href="https://codeinstitute.net/" target="_blank">https://codeinstitute.net/</a>.
+- Font Awesome Icons: <a href="https://fontawesome.com/" target="_blank">https://fontawesome.com/</a>.
+- Startup Academy Proposed Icon: <a href="https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon" target="_blank">https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon</a>.
+- Hero Images & Topics: <a href="https://www.pexels.com/" target="_blank">https://www.pexels.com/</a>.
+- Lato, Google Font: <a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">https://fonts.google.com/specimen/Lato?query=lato</a>.
 
 ### 6.3 Acknowledgements 🙏
 
