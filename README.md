@@ -89,10 +89,10 @@ The website provides:
 
 Below you will find the website's wireframes. These were generated using Balsamiq. There are four versions of the wireframes. Choose your option:
 
-- Wireframes for the <a href="https://drive.google.com/file/d/1idAXa3Im9vHfMWTc6PS4m94JngKpV0qr/view?usp=sharing" target="_blank">desktop version in PDF</a>.
-- Wireframes for the <a href="https://drive.google.com/file/d/1IPgsA4cvubWJY1UrtYPMe4MlqKCMbCwh/view?usp=sharing" target="_blank">mobile version in PDF</a>.
-- Wireframes for the <a href="https://drive.google.com/file/d/1axsIlF8OUMhDCYMkokbSL0YRXvrxud5V/view?usp=sharing" target="_blank">desktop version in Balsamiq</a>.
-- Wireframes for the <a href="https://drive.google.com/file/d/1ZM1O03oX0w5p6cLx8tqdJHn-Zveptljx/view?usp=sharing" target="_blank">mobile version in Balsamiq</a>.
+- Wireframes for the <a href="https://drive.google.com/file/d/1idAXa3Im9vHfMWTc6PS4m94JngKpV0qr/view?usp=sharing" rel="noopener" target="_blank">desktop version in PDF</a>.
+- Wireframes for the <a href="https://drive.google.com/file/d/1IPgsA4cvubWJY1UrtYPMe4MlqKCMbCwh/view?usp=sharing" rel="noopener" target="_blank">mobile version in PDF</a>.
+- Wireframes for the <a href="https://drive.google.com/file/d/1axsIlF8OUMhDCYMkokbSL0YRXvrxud5V/view?usp=sharing" rel="noopener" target="_blank">desktop version in Balsamiq</a>.
+- Wireframes for the <a href="https://drive.google.com/file/d/1ZM1O03oX0w5p6cLx8tqdJHn-Zveptljx/view?usp=sharing" rel="noopener" target="_blank">mobile version in Balsamiq</a>.
 
   _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
@@ -118,28 +118,28 @@ Below you will find the website's wireframes. These were generated using Balsami
 
 ### 3.1 Languages 🗣
 
-- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">**HTML/HTML5**</a>
+- <a href="https://en.wikipedia.org/wiki/HTML5" rel="noopener" target="_blank">**HTML/HTML5**</a>
   - The project used **HTML/HTML5** as this is the essential language of websites.
-- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">**CSS/CSS3**</a>
+- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" rel="noopener" target="_blank">**CSS/CSS3**</a>
   - The project used **CSS/CSS3** to provide the styles for the website.
 
 ### 3.2 Frameworks ⌨
 
-- <a href="https://getbootstrap.com/" target="_blank">**BootStrap 4**</a>
+- <a href="https://getbootstrap.com/" rel="noopener" target="_blank">**BootStrap 4**</a>
   - The project used the **BootStrap 4** framework to help design the website faster and easier.
 
 ### 3.3 IDEs 🖥
 
-- <a href="https://www.gitpod.io/" target="_blank">**Gitpod**</a>
+- <a href="https://www.gitpod.io/" rel="noopener" target="_blank">**Gitpod**</a>
   - The project used the **Gitpod** IDE to develop the website.
 
 ### 3.4 External Hostings 🏢
 
-- <a href="https://github.com/" target="_blank">**GitHub**</a>
+- <a href="https://github.com/" rel="noopener" target="_blank">**GitHub**</a>
   - The project used the **GitHub** hosting service to save the project in a repository.
-- <a href="https://imgur.com/" target="_blank">**Imgur**</a>
+- <a href="https://imgur.com/" rel="noopener" target="_blank">**Imgur**</a>
   - The project used the **Imgur** service to host and access images online.
-- <a href="https://drive.google.com/" target="_blank">**Google Drive**</a>
+- <a href="https://drive.google.com/" rel="noopener" target="_blank">**Google Drive**</a>
   - The project used the **Google Drive** service to host and access others files and documents online.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
@@ -150,11 +150,11 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ### 4.1 Testing Tools ⚗
 
-- <a href="https://jsfiddle.net/" target="_blank">**JSFiddle**</a>
+- <a href="https://jsfiddle.net/" rel="noopener" target="_blank">**JSFiddle**</a>
   - The project used the **JSFiddle** tool to test ideas and codes in a safe environment.
-- <a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank">**Chrome DevTools**</a>
+- <a href="https://developers.google.com/web/tools/chrome-devtools" rel="noopener" target="_blank">**Chrome DevTools**</a>
   - The project used **Chrome DevTools** to test variations to the CSS rules and ideas to its optimisation.
-  - The project also used it to <a href="https://developers.google.com/web/tools/chrome-devtools/device-mode" target="_blank">**Simulate Mobile Devices**</a> and test the website behaviour on mobile views.
+  - The project also used it to <a href="https://developers.google.com/web/tools/chrome-devtools/device-mode" rel="noopener" target="_blank">**Simulate Mobile Devices**</a> and test the website behaviour on mobile views.
 
 ### 4.2 Testing User Stories 🙆‍♀️
 
@@ -209,14 +209,14 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 Carlos developed this project using Gitpod’s IDE. He pushed all developments to the corresponding repository inside his GitHub account.
 He followed the steps below:
 
-1. He first created the repository inside his GitHub account. Repo URL: <a href="https://github.com/RohrerHope/ms1-startup-academy" target="_blank">https://github.com/RohrerHope/ms1-startup-academy</a>.
+1. He first created the repository inside his GitHub account. Repo URL: <a href="https://github.com/RohrerHope/ms1-startup-academy" rel="noopener" target="_blank">https://github.com/RohrerHope/ms1-startup-academy</a>.
 2. He launched the project on Gitpod from the repository, using Gitpod's Chrome extension.
 3. He continued his work and development on Gitpod.
 4. He pushed all relevant and significant changes to the repository, from Gitpod, regularly.
 
 There are no differences between the deployed and the developed version. Carlos used one branch: master.
 
-You can run and view the project by following this URL: <a href="https://rohrerhope.github.io/ms1-startup-academy/" target="_blank">https://rohrerhope.github.io/ms1-startup-academy/</a>.
+You can run and view the project by following this URL: <a href="https://rohrerhope.github.io/ms1-startup-academy/" rel="noopener" target="_blank">https://rohrerhope.github.io/ms1-startup-academy/</a>.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
@@ -226,18 +226,18 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ### 6.1 Code Snippets 🧬
 
-- Inspiration for the navigation bar: <a href="https://bootsnipp.com/snippets/vlXGB" target="_blank">https://bootsnipp.com/snippets/vlXGB</a>.
-- Inspiration for the hero section: <a href="https://codetheweb.blog/demo/full-image-hero/" target="_blank">https://codetheweb.blog/demo/full-image-hero/</a>.
-- Inspiration for the Sign Up form: <a href="https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export" target="_blank">https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export</a>.
-- Privacy message on the Sign Up form: <a href="https://codeinstitute.net/full-stack-software-development-diploma/" target="_blank">https://codeinstitute.net/full-stack-software-development-diploma/</a>.
+- Inspiration for the navigation bar: <a href="https://bootsnipp.com/snippets/vlXGB" rel="noopener" target="_blank">https://bootsnipp.com/snippets/vlXGB</a>.
+- Inspiration for the hero section: <a href="https://codetheweb.blog/demo/full-image-hero/" rel="noopener" target="_blank">https://codetheweb.blog/demo/full-image-hero/</a>.
+- Inspiration for the Sign Up form: <a href="https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export" rel="noopener" target="_blank">https://mdbootstrap.com/snippets/jquery/temp/2023911?action=prism_export</a>.
+- Privacy message on the Sign Up form: <a href="https://codeinstitute.net/full-stack-software-development-diploma/" rel="noopener" target="_blank">https://codeinstitute.net/full-stack-software-development-diploma/</a>.
 
 ### 6.2 Media 📸
 
-- Code Institute Logo: <a href="https://codeinstitute.net/" target="_blank">https://codeinstitute.net/</a>.
-- Font Awesome Icons: <a href="https://fontawesome.com/" target="_blank">https://fontawesome.com/</a>.
-- Startup Academy Proposed Icon: <a href="https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon" target="_blank">https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon</a>.
-- Hero Images & Topics: <a href="https://www.pexels.com/" target="_blank">https://www.pexels.com/</a>.
-- Lato, Google Font: <a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">https://fonts.google.com/specimen/Lato?query=lato</a>.
+- Code Institute Logo: <a href="https://codeinstitute.net/" rel="noopener" target="_blank">https://codeinstitute.net/</a>.
+- Font Awesome Icons: <a href="https://fontawesome.com/" rel="noopener" target="_blank">https://fontawesome.com/</a>.
+- Startup Academy Proposed Icon: <a href="https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon" rel="noopener" target="_blank">https://www.iconfinder.com/icons/3209317/gear_idea_innovation_lightbulb_technology_icon</a>.
+- Hero Images & Topics: <a href="https://www.pexels.com/" rel="noopener" target="_blank">https://www.pexels.com/</a>.
+- Lato, Google Font: <a href="https://fonts.google.com/specimen/Lato?query=lato" rel="noopener" target="_blank">https://fonts.google.com/specimen/Lato?query=lato</a>.
 
 ### 6.3 Acknowledgements 🙏
 
