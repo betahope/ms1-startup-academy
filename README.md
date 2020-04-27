@@ -252,7 +252,8 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 - **Ciara Browne _(CI Government Channel Manager)_**: Thanks for believing in the Startup Academy project and for giving it space in your schedule.
 - **Maria Mcloughlin _(CI Slack Community)_**: Thanks for your support. For believing in the overall project, which led to the birth of the #startups channel on Slack. Thank you for the opportunity to be part of your podcast and share a bit of my story and purpose.
-- **Jonathan Munz _(CI Mentor)_**: Thanks for your support as a mentor. You have provided excellent guidance, feedback and inputs into my ideas and development. Looking forward to working together again on the next milestones.
+- **Jonathan Munz _(My CI Mentor)_**: Thanks for your support as a mentor. You have provided excellent guidance, feedback and inputs into my ideas and development. Looking forward to working together again on the next milestones.
+- **Simen Daehlin (Slack user @Eventyret_mentor)**: Thanks for your support when I had the background image issue, caused by the CSS property background-attachment.
 - **CI Slack Community**: Through several conversations and calls, I continuously improve my knowledge as an engineer, and I grow as a person.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
