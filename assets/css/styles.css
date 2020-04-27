@@ -2,6 +2,10 @@
 
 /* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
 
+html {
+  font-size: 16px;
+}
+
 :root {
   /* Colors */
   --brand-color: #e54725;
