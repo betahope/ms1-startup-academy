@@ -160,6 +160,10 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 - <a href="https://developers.google.com/web/tools/chrome-devtools" rel="noopener" target="_blank">**Chrome DevTools**</a>
   - The project used **Chrome DevTools** to test variations to the CSS rules and ideas to its optimisation.
   - The project also used it to <a href="https://developers.google.com/web/tools/chrome-devtools/device-mode" rel="noopener" target="_blank">**Simulate Mobile Devices**</a> and test the website behaviour on mobile views.
+- <a href="https://en.wikipedia.org/wiki/IPhone_8" rel="noopener" target="_blank">**iPhone 8**</a>
+  - The project used an **iPhone 8** mobile device to test the website in a real mobile environment.
+- <a href="https://en.wikipedia.org/wiki/IPad_(2017)" rel="noopener" target="_blank">**iPad (5th Generation)**</a>
+  - The project used an **iPad (5th Generation)** mobile device to test the website in a real mobile environment.
 
 ### 4.2 Testing User Stories 🙆‍♀️
 
