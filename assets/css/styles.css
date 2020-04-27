@@ -633,4 +633,8 @@ footer .footer-logo a:hover {
     width: 80vw;
     margin: 3rem auto 5rem auto;
   }
+
+  .hero {
+    background-attachment: scroll;
+  }
 }
