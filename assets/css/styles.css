@@ -628,4 +628,9 @@ footer .footer-logo a:hover {
     height: 70vh;
     background-position: center;
   }
+
+  .sprints {
+    width: 80vw;
+    margin: 3rem auto 5rem auto;
+  }
 }
