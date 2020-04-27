@@ -148,6 +148,8 @@ Below you will find the website's wireframes. These were generated using Balsami
 
 - <a href="https://autoprefixer.github.io/" rel="noopener" target="_blank">**Auto-Prefixer**</a>
   - The project used the **Auto-Prefixer** to add CSS compatibility with other browsers.
+- <a href="https://fontawesome.com/" rel="noopener" target="_blank">**Font Awesome**</a>
+  - The project used the **Font Awesome** to add vector icons to the project.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
