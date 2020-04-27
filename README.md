@@ -28,6 +28,8 @@ The Code Institute Startup Academy is a project idea that involves implementing 
 
 The mission of the Code Institute Startup Academy is to provide access to knowledge, community and tools that will allow CI students and graduates to start a startup and improve their probabilities of success, regardless of who and where they are.
 
+_This is for educational purposes only._
+
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 <span id="ux"></span>
