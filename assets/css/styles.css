@@ -286,6 +286,16 @@ span {
   font-size: var(--text-h4);
 }
 
+.hero-logo {
+  text-align: left;
+  display: flex;
+  vertical-align: middle;
+}
+
+.hero-logo img {
+  margin-right: 1rem;
+}
+
 .hero {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -319,11 +329,6 @@ span {
 .hero h3 {
   font-weight: 300;
   color: #fff;
-}
-
-.col-12.col-lg-2.hero-logo {
-  padding-right: 0;
-  margin-right: 0;
 }
 
 .hero .btn {
@@ -535,16 +540,6 @@ footer .footer-logo a:hover {
 
 /* ------------------------- Media Queries */
 
-@media (max-width: 961px) {
-  .footer-logo {
-    margin-bottom: 1rem;
-  }
-
-  .button-message {
-    text-align: center;
-  }
-}
-
 @media (max-width: 420px) {
   :root {
     /* Text */
@@ -602,6 +597,14 @@ footer .footer-logo a:hover {
     --hero-logo: 4rem;
   }
 
+  .footer-logo {
+    margin-bottom: 1rem;
+  }
+
+  .button-message {
+    text-align: center;
+  }
+
   .topnav {
     text-align: center;
   }
@@ -633,5 +636,13 @@ footer .footer-logo a:hover {
 
   .hero {
     background-attachment: scroll;
+  }
+
+  .hero-logo {
+    display: block;
+  }
+
+  .hero-logo h1 {
+    display: block;
   }
 }
