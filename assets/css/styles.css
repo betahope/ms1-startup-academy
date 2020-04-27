@@ -624,7 +624,7 @@ footer .footer-logo a:hover {
   }
 
   .hero-index {
-    background-size: auto;
+    background-size: initial;
     height: 90vh;
     background-position: center;
   }
