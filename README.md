@@ -22,7 +22,7 @@
 
 # Code Institute Startup Academy
 
-This project presents the idea of how the Academy's website would look like and the value that it would provide to students and graduates.
+This project represents the idea of how the Academy's website would look like and the value that it would provide to students and graduates.
 
 The Code Institute Startup Academy is a project idea that involves implementing a startup programme within Code Institute's organisation, to leverage the talent that goes through their courses regularly.
 
